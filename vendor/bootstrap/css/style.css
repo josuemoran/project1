@@ -15,8 +15,12 @@
 
 } */
 
-.carousel img {
+/* .carousel img {
      width: 80%;
      margin: auto;
 
+} */
+
+.carousel-control-next{
+  margin: auto;
 }
