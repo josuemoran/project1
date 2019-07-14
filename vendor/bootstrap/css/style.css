@@ -1,3 +1,29 @@
 .illustration {
-  width: 90%;
+  width: 80%;
+}
+
+
+.head{
+  font-size:2vw
+}
+
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 4px 8px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #f1f1f1;
+  color: black;
 }
