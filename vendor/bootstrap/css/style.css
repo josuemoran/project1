@@ -31,3 +31,22 @@
     left: 50%;
     transform: translateX(-50%);
 }
+
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
