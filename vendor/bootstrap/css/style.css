@@ -7,7 +7,9 @@
   font-size:2vw
 }
 
-
+a{
+  font-size: 20px;
+}
 
 .carousel-inner img {
   width: 80%;
@@ -38,7 +40,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: green;
+  color: black;
 }
 
 /* mouse over link */
