@@ -24,3 +24,10 @@
 .carousel-control-next{
   margin: auto;
 }
+
+
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
